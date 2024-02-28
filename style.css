@@ -1,13 +1,31 @@
-body{
-    padding-top: 1%;
+.lead h1 {
+    text-align: center;
 }
-ul{
-    display: flex;
+h1 {
+    font-size: 2.125rem;
+    color: #00b39b;
 }
-li{
-    margin-left: 10%;
-    margin-right: 1%;
-    list-style-type: none;
+h1, h2, h3, h4 {
+    margin: 1em 0;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
 }
-.main-menu{display: flex-;}
-ul{display: flex-end;}
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+h1 {
+    display: block;
+    font-weight: bold;
+}
+body {
+    font-weight: 400;
+    font-family: Roboto, Arial;
+    color: #747474;
+    padding-top: 70px;
+}
+html {
+    font-size: 16px;
+    font-weight: 400;
+}
